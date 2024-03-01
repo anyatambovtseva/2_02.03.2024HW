@@ -4,7 +4,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	float s;
-	cout << "ââåäèòå âåùåñòâåííîå ÷èñëî: ";
+	cout << "Ð²Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²ÐµÑ‰ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾: ";
 	cin >> s;
 	s = s * 0.1;
 	cout << s;
