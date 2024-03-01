@@ -7,8 +7,8 @@ int main()
     double kb = b / 1024;
     double mb = kb / 1024;
     double gb = mb / 1024;
-    cout << b << " áàéò = " << gb << " ÃÁ" << endl;
-    cout << b << " áàéò = " << mb << " ÌÁ" << endl;
-    cout << b << " áàéò = " << kb << " ÊÁ" << endl;
+    cout << b << " Ð±Ð°Ð¹Ñ‚ = " << gb << " Ð“Ð‘" << endl;
+    cout << b << " Ð±Ð°Ð¹Ñ‚ = " << mb << " ÐœÐ‘" << endl;
+    cout << b << " Ð±Ð°Ð¹Ñ‚ = " << kb << " ÐšÐ‘" << endl;
     return 0;
 }
